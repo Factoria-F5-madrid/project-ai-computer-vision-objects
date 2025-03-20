@@ -1,6 +1,6 @@
 # 🚀 PROYECTO COMPUTER VISION - Detección de Objetos
 
-![AI Developer](https://github.com/user-attachments/assets/fb2e482e-bdf6-4449-9285-6f780d2f7dd7)
+![computervision](https://github.com/user-attachments/assets/0bd79f43-56c5-4494-9dc7-910c9d902742)
 
 ## 📜 Briefing: PROYECTO COMPUTER VISION
 
