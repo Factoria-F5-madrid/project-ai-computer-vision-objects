@@ -92,6 +92,7 @@ Se considerarán los siguientes criterios:
 ✅ Uso de técnicas de preprocesamiento de imágenes: resizing, normalización, escalado  
 ✅ Uso de Datasets de Imágenes para detección de objetos   
 ✅ Implementa detección de objetos reentrenando modelo preentrenado    
+✅ Uso de técnicas de detección de objetos en tiempo real  
 ✅ Aumento de datos con técnicas visuales (flip, crop, color jitter)    
 
 Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
